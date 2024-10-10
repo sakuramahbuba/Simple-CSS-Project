@@ -1,0 +1,49 @@
+body {
+    background-color: peachpuff;
+  }
+  
+  img{
+
+border-radius: 15px;
+align-items: center;
+
+  }
+  #main_box{
+
+    background-color: aliceblue;
+    inline-size: 50%;
+    
+ border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+
+  }
+  /* h1{
+text-align: center;
+
+  } */
+#preparation{
+
+    background-color:rgb(240, 223, 234) ;
+    block: size 30px; ;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+th, td {
+  border-bottom: 1px solid #ddd;
+}
+.headings{color: brown;}
+
+table{text-align: left;
+vertical-align: auto;
+margin: auto;
+width: 100%;
+}
+/* ol{text-decoration:double;
+font-weight: bolder;} */
+ol li::marker {
+  color: brown;
+  font-weight: bold;
+}
